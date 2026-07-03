@@ -2,6 +2,5 @@
 
 int main() {
     printf("Hola GitHub desde C!\n");
-    printf("Proyecto de Desarrollo de Software Estructurado.\n");
+    printf("Segundo commit realizado correctamente.\n");
     return 0;
-}
